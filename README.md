@@ -1,5 +1,5 @@
 ### Hi there ✌🏻
-### :fire:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3xg3lin&langs_count=5&theme=tokyonight)]
 <!--
 **3xg3lin/3xg3lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
