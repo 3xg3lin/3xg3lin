@@ -1,4 +1,5 @@
 ### Hi there ✌🏻
+I'm Linux enthusiast and I'm still learning...
 ### :fire: My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3xg3lin&langs_count=5&theme=tokyonight)
 <!--
