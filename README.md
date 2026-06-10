@@ -3,7 +3,7 @@
 I'm a Linux enthusiast.
 I love the C programming language and coding. ☕️ 🎧📚  
   
-[![My Skills](https://skillicons.dev/icons?i=c,bash,linux,docker,raspberrypi,plan9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,linux,docker,raspberrypi,github,plan9)](https://skillicons.dev)
 
 ## GitHub Stats
 
