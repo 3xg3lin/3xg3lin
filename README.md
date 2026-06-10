@@ -2,14 +2,7 @@
 
 I'm a Linux enthusiast.
 I love the C programming language and coding. ☕️ 🎧📚
-
-## Skills
-
-<p align="left">
-<img src="https://skillicons.dev/" alt="c" width="40" height="40"/>&nbsp;
-<img src="https://skillicons.dev/" alt="bash" width="40" height="40"/>&nbsp;
-<img src="https://skillicons.dev/" alt="linux" width="40" height="40"/>&nbsp;
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,bash,linux)](https://skillicons.dev)
 
 ## GitHub Stats
 
