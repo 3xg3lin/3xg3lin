@@ -1,8 +1,8 @@
 # Hello 👋, I'm kerem gül
 
 I'm a Linux enthusiast.
-I love the C programming language and coding. ☕️ 🎧📚
-[![My Skills](https://skillicons.dev/icons?i=c,bash,linux)](https://skillicons.dev)
+I love the C programming language and coding. ☕️ 🎧📚  
+[![My Skills](https://skillicons.dev/icons?i=c,bash,linux,docker,raspberrypi,plan9)](https://skillicons.dev)
 
 ## GitHub Stats
 
