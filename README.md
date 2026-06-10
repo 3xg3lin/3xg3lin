@@ -1,18 +1,20 @@
-### Hi there ✌🏻
-I'm Linux enthusiast and I'm still learning...
-### :fire: My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3xg3lin&langs_count=5&theme=tokyonight)
-<!--
-**3xg3lin/3xg3lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello 👋, I'm kerem gül
 
-Here are some ideas to get you started:
+I'm a Linux enthusiast.
+I love the C programming language and coding. ☕️ 🎧📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="bash scripting" width="40" height="40"/>&nbsp;
+</p>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=3xg3lin&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xg3lin&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3xg3lin&theme=tokyonight" alt="GitHub Streak" />
+
