@@ -6,8 +6,9 @@ I love the C programming language and coding. ☕️ 🎧📚
 ## Skills
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="bash scripting" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/" alt="bash" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/" alt="linux" width="40" height="40"/>&nbsp;
 </p>
 
 ## GitHub Stats
